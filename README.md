@@ -21,6 +21,8 @@ Run the program by typing "go run main.go". You may get a prompt from your firew
 
 Open your browser of choice
 
+Under the right directory turn on the terminal and run "go run main.go" or "go run ."
+
 Type "http://localhost:8080/asciiart" into the browser and press Enter.
 
 To use the Ascii Art Generator, please type the words you would like to be transformed to ASCII art into the text box.
@@ -28,3 +30,6 @@ To use the Ascii Art Generator, please type the words you would like to be trans
 Next, choose your font by clicking one of the three buttons next to the font name.
 
 When you click on the "Submit" button, you will see your text displayed as ASCII art below. Da DA!
+
+**Example
+![Example](/img.png)
