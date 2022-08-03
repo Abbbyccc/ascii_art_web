@@ -1,3 +1,5 @@
+### Ascii Art Web
+
 Welcome to the ASCII Art Generator. This is a program that can translate text into ASCII art that uses a web interface to receive and output data.
 
 ### The method/algorithm we used is such:
